@@ -1,0 +1,7 @@
+{
+  "name": "BNR Ministry registration",
+  "description": "A versatile registration platform with multi-template support and integrated Cash App payments. Featuring AI-powered biblical event script generation for meaningful engagement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
